@@ -1,0 +1,11 @@
+int main(){
+    int lwxID;
+    int A;
+    bool ans = false;
+    lwxID = 123;
+    A = 123;
+    if(lwxID = A){
+        ans = true;
+    }
+}
+#

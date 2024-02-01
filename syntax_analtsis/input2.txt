@@ -1,0 +1,9 @@
+program example2;
+begin
+    var i=1@
+    var sum=1;
+    while(i<=9)
+        if(i%2!=0)
+        then sum=sum*i;i=i+1;
+        else then i=i+1;
+end.
