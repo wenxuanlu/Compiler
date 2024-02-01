@@ -1,0 +1,1 @@
+program example1; begin var i=1; end.
